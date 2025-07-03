@@ -54,11 +54,8 @@ This repository contains the development files for two robot platforms designed 
 ---
 ## 📸 Robot Photos
 
-### 🤖 Robot 1 – Mecanum Drive Robot
-![Robot 1 – Mecanum Drive](images/robot1.jpg)
-
 ### ⚫ Robot 2 – Line Following Robot
-![Robot 2 – Line Follower](images/robot2.jpg)
+![Robot 2 – Line Follower](images/1.jpg)
 
 ---
 
@@ -66,7 +63,7 @@ This repository contains the development files for two robot platforms designed 
 
 Visual representation of the robot's estimated vs. actual path using onboard sensor data and vision cues.
 
-![Path Localization](images/path_localization.png)
+![Path Localization](images/5.jpg)
 
 ---
 
@@ -74,7 +71,7 @@ Visual representation of the robot's estimated vs. actual path using onboard sen
 
 A sample response of the robot’s control system to step input for position/movement control.
 
-![Step Response](images/step_response.png)
+![Step Response](images/6.jpg)
 
 ---
 ## 👥 Team Contributions
