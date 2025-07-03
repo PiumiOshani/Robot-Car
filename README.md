@@ -52,7 +52,31 @@ This repository contains the development files for two robot platforms designed 
 - Modular design with clean separation of software and hardware responsibilities.
 
 ---
+## 📸 Robot Photos
 
+### 🤖 Robot 1 – Mecanum Drive Robot
+![Robot 1 – Mecanum Drive](images/robot1.jpg)
+
+### ⚫ Robot 2 – Line Following Robot
+![Robot 2 – Line Follower](images/robot2.jpg)
+
+---
+
+## 📍 Path Localization
+
+Visual representation of the robot's estimated vs. actual path using onboard sensor data and vision cues.
+
+![Path Localization](images/path_localization.png)
+
+---
+
+## 📈 Step Response
+
+A sample response of the robot’s control system to step input for position/movement control.
+
+![Step Response](images/step_response.png)
+
+---
 ## 👥 Team Contributions
 
 | Member | Roles & Responsibilities |
